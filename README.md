@@ -61,9 +61,9 @@ Before starting, ensure you have the following:
 project/
 ├── amplify/ # Amplify backend configuration
 ├── src/ # Frontend source code
-│ ├── components/ # React components
-│ ├── App.js # Main application file
-│ └── index.js # Entry point
+│   components/ # React components
+│   App.js # Main application file
+│   index.js # Entry point
 ├── lambda/ # Lambda function code
 ├── README.md # Project documentation
 └── package.json # Node.js dependencies

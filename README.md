@@ -57,13 +57,13 @@ Before starting, ensure you have the following:
    - Verify that users can sign up, sign in, and interact with the generative AI features.
    - Test the API Gateway and Lambda integration to ensure smooth functionality.
 
-## Project Structure
+## **Project Structure**
 project/
 ├── amplify/ # Amplify backend configuration
 ├── src/ # Frontend source code
-│   components/ # React components
-│   App.js # Main application file
-│   index.js # Entry point
+│ ├── components/ # React components
+│ ├── App.js # Main application file
+│ └── index.js # Entry point
 ├── lambda/ # Lambda function code
 ├── README.md # Project documentation
 └── package.json # Node.js dependencies
